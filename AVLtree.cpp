@@ -12,7 +12,7 @@ class node
         data=d;
         l=NULL;
         r=NULL;
-        // sumit
+       
     }
 
      int height(node *h){
